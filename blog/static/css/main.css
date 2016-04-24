@@ -13,11 +13,14 @@ body {
   padding: 0;
 }
 
-.header {
-  background-color: #666;
+.header h1 a {
   color: white;
   padding: 10px 0;
   font-family: 'Lobster Two'
+}
+
+.header {
+  background-color: #666;
 }
 
 h1 {

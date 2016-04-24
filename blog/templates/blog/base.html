@@ -9,7 +9,8 @@
   </head>
   <body>
     <div class="header">
-      <h1>Homepage</h1>
+      <h1><a href="/">Homepage</a></h1>
+      <a href="{% url 'post_new' %}">+</a>
     </div>
     {% block content %}
     {% endblock %}
