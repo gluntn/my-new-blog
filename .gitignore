@@ -1,0 +1,8 @@
+# Ignore compiled files and the virtualenv folder
+*.pyc
+vir/*
+vir
+*~
+static/*
+static
+newblog/admin
